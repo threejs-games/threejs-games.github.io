@@ -1,14 +1,6 @@
-# Create 3D worlds
+# Three.js Games (formerly Create 3D worlds)
 
-A library of reusable Three.js components that you can play with.
-
-Over the years, I have gathered Three.js examples from various sources and modified them to be reusable.
-
-Unlike other cool Three.js examples that you can just look at, here you can combine different elements and create new scenes. To begin with, you can replace any model or character in these examples.
-
-I hope you will have as much fun as I did making this.
-
-Developed by [mudroljub](https://twitter.com/mudroljub).
+A library of reusable Three.js game components.
 
 ## Start
 
@@ -60,4 +52,4 @@ and other respected sites.
 
 Game UI: https://ronenness.github.io/RPGUI/
 
-If I have missed some source, please let me know. I've been following various books, courses, repositories and other materials related to Three.js for 10 years, I don't even know where I found something anymore.
+If I have missed some source, please let me know. I've been following various books, courses, repositories and other materials related to Three.js for more than 10 years, I don't even know where I found something anymore.
