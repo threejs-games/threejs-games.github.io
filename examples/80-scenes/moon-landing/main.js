@@ -37,9 +37,6 @@ const controls = {
   '↓ or S': 'thrust down',
   '↑ or W': '',
   P: 'pause',
-  // 'Space:': 'jump',
-  // 'Enter:': 'attack',
-  // 'CapsLock:': 'run',
 }
 
 const gui = new GUI({ subtitle: 'Fuel left', scoreClass: '', controls, controlsWindowClass: 'white-window' })

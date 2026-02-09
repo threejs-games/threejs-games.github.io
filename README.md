@@ -1,31 +1,16 @@
-# Three.js Games (formerly Create 3D worlds)
+# Three.js Games
 
 A library of reusable Three.js game components.
+
+A new version of this project is located at:
+
+https://github.com/partisan-games/partisan-games.github.io
 
 ## Start
 
 ```
 npx live-server
 ```
-
-## TODO
-
-- BUG: in rpg screen button not working on mouse click (should hide it or enable it)
-- test on mobile
-  - joystick: 
-    - doesn't return to its place after release
-    - goth-girl: second attack btn out of screen
-    - nazi-officer: special btn out of screen
-    - random-boxes: jump is not working while walking
-  - spomeniks: 
-    - buttons too small (maybe elsewhere also, find a cause)
-    - add preloader
-  - fps-airport: press to start not working
-
-- fix lights (broken after three.js update)
-- fix shadows (broken after three.js update)
-- add sources for some examples
-- write documentation
 
 ## Sources
 
@@ -50,6 +35,7 @@ Free 3D Models are from:
 - rigmodels.com
 and other respected sites.
 
-Game UI: https://ronenness.github.io/RPGUI/
+Game UI: 
+- https://ronenness.github.io/RPGUI/
 
 If I have missed some source, please let me know. I've been following various books, courses, repositories and other materials related to Three.js for more than 10 years, I don't even know where I found something anymore.
